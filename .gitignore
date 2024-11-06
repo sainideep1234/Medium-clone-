@@ -1,0 +1,14 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore OS and editor-specific files
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Ignore build output
+dist/
+build/
